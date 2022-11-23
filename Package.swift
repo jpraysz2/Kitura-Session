@@ -29,7 +29,7 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Kitura", url: "https://gitlab.everial.com/jpraysz/kiturajp.git", from: "1.1.6"),
+        .package(name: "KituraJP", url: "https://gitlab.everial.com/jpraysz/kiturajp.git", from: "1.1.6"),
         .package(name: "Cryptor", url: "https://github.com/Kitura/BlueCryptor.git", from: "2.0.2"),
     ],
     targets: [
